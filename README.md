@@ -175,5 +175,5 @@ Refactoring ini membuktikan bahwa desain kode yang baik sangat penting dalam pen
 
 ## 👨‍🎓 Author
 
-Nama: Saifullah Yusuf
-Mata Kuliah: Praktikum Pemrograman Berorientasi Objek
+* Nama: Saifullah Yusuf
+* Mata Kuliah: Praktikum Pemrograman Berorientasi Objek
