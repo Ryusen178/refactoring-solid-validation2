@@ -51,7 +51,6 @@ refactoring-solid-validation/
 │   ├── semester_validator.py
 │   └── prasyarat_validator.py
 │
-├── .gitignore
 └── README.md
 ```
 
@@ -178,4 +177,3 @@ Refactoring ini membuktikan bahwa desain kode yang baik sangat penting dalam pen
 
 Nama: Saifullah Yusuf
 Mata Kuliah: Praktikum Pemrograman Berorientasi Objek
-Semester: 3
