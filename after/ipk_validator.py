@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import logging
 from validation_rule import ValidationRule
 
@@ -23,7 +22,7 @@ class IPKValidator(ValidationRule):
 
         logging.info("Validasi IPK berhasil")
         return None
-=======
+
 import logging
 from validation_rule import ValidationRule
 
@@ -48,4 +47,3 @@ class IPKValidator(ValidationRule):
 
         logging.info("Validasi IPK berhasil")
         return None
->>>>>>> a47044d8648da51e150e0b03232ff5d25ba31f20
